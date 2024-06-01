@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ---
 
+### My Stat
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunSuYoon&show_icons=true&theme=radical)
+
+---
+
 ### My Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=geniusu8704)](https://solved.ac/geniusu8704)
